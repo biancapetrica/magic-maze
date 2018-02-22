@@ -1,7 +1,5 @@
 # magic-maze
 
-PETRICA BIANCA GABRIELA, 323CB
-
 	Pentru construirea labirintului am realizat clasa abstracta Cell si cate 
 un tip de clasa pentru fiecare tip de celula: WallCell, PathCell, EntranceCell, 
 ExitCell, care extind clasa abstracta Cell, si am construit si clasa Maze care 
